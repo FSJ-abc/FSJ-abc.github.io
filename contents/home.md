@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Shuangjie Fan](https://img.shields.io/badge/homepage-ShuangjieFan-blue)](https://github.com/FSJ-abc)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+I am now an undergraduate student in the School of Information Science and Engineering at Northeastern University (China), majoring in Industrial Artificial Intelligence. I am interested continuous learning, active learning, multimodal.
 #### Email
-sli[at]cumt.edu.cn
+20225533[at]stu.neu.edu.cn
+tpartf[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Industrial Artificial Intelligence, Northeastern University, China, 2022-2026.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Continuous learning, Active learning, Multimodal.
 
